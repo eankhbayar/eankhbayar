@@ -1,5 +1,3 @@
-<!-- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"> -->
-
 <h2> Hey there! I'm Ankhbayar.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -8,7 +6,6 @@
 - 🎓 &nbsp; Studying Computer Science and Mathematics at Yonsei University.
 - 💼 &nbsp; Working as a Developer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
